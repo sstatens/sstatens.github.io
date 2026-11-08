@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>TimeTree Sync</title>
+<style>body{font-family:system-ui,sans-serif;max-width:640px;margin:40px auto;padding:0 16px;line-height:1.5;color:#222}</style>
+</head><body>
+<h1>TimeTree Sync</h1>
+<p>TimeTree Sync is a small personal tool that copies one family's TimeTree calendar into a separate Google Calendar, "Family (TimeTree)", once a night. It runs only on the owner's own Windows computer and is not offered to the public.</p>
+<p>It can only see and change calendars it created itself. It cannot read or change any other calendar in the Google account.</p>
+<p><a href="privacy.html">Privacy policy</a></p>
+<p>Contact: sstatens@gmail.com</p>
+</body></html>
